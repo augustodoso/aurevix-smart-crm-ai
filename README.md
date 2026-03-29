@@ -32,14 +32,13 @@ Frontend → FastAPI → OpenAI → Salesforce API
 ## ⚙️ Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/aurevixassistantoauth
+git clone https://github.com/augustodoso/aurevix-smart-crm-ai.git
 cd aurevix-smart-crm-ai
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 pip install email-validator
 python -m uvicorn app.main:app --reload --port 8001
-
 Acesse:
 http://127.0.0.1:8001/docs
 
@@ -49,3 +48,6 @@ http://127.0.0.1:8001/docs
   "email": "email@email.com",
   "company": "Sua Empresa"
 }
+
+Autor
+Augusto Cezar
