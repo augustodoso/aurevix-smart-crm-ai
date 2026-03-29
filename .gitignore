@@ -1,0 +1,17 @@
+# ambiente virtual
+.venv/
+venv/
+
+# variáveis sensíveis
+.env
+
+# cache python
+__pycache__/
+*.pyc
+
+# logs
+chat_logs.json
+
+# sistema
+.DS_Store
+Thumbs.db
