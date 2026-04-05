@@ -110,12 +110,6 @@ POST /salesforce/score-lead
 
 ---
 
-## 📸 Demonstração
-
-👉 (adicione prints do Swagger e do Salesforce aqui)
-
----
-
 ## 👨‍💻 Autor
 
 **Augusto Cezar de Macedo Doso**
